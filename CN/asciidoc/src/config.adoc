@@ -1,0 +1,10 @@
+// asciidoc settings for CN (简体中文)
+// ==================================
+:toc-title: 目录
+
+// enable table-of-contents
+:toc:
+
+// where are images located?
+:imagesdir: ./images
+:arc42help:
