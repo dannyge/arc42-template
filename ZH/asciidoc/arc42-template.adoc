@@ -3,7 +3,7 @@
 //
 // ====================================
 
-// configure CN settings for asciidoc
+// configure zh settings for asciidoc
 include::src/config.adoc[]
 
 = image:arc42-logo.png[arc42] 模板
@@ -25,9 +25,10 @@ include::src/about-arc42.adoc[]
 ifdef::arc42help[]
 [role="arc42help"]
 ****
-[注意]
+[NOTE]
 ====
-此模板版本包含一些帮助和说明。它用于熟悉arc42以及理解概念。对于您自己的系统文档，您最好使用 _纯文本_ 版本。
+此模板版本包含一些帮助和说明。它用于熟悉 arc42 以及理解概念。
+对于您自己的系统文档，最好使用 _纯文本_ 版本。
 
 ====
 ****
